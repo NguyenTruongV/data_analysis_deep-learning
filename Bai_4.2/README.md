@@ -67,4 +67,10 @@ Các bước xử lý chính:
 
 Các yếu tố ảnh hưởng mạnh nhất đến khả năng sống sót:
 
-- Giớ
+- Giới tính
+- Hạng vé
+- Giá vé
+- Độ tuổi
+- Quy mô gia đình
+
+Trong đó, giới tính và Pclass là hai yếu tố quan trọng nhất.
